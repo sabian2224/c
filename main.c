@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 //#include - a preprocessor directive that includes the
 //context of another file
@@ -19,4 +19,3 @@ int main(void) {
     return 0;//Tells your operating system that your program finished succesfuly
     //It's like an exit line.
 }
-*/

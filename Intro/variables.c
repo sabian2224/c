@@ -30,6 +30,7 @@ int main (void) {
     //#2. Float data type (floating point number)
     double gpa = 2.5;
     printf("You have a %.1f GPA\n", gpa);
+    //% - It is called format specifier.
 
     double price = 100.5;
     printf("The price is %.1f $.\n", price);
